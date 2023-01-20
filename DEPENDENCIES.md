@@ -1,3 +1,3 @@
 # Dependencies
-pip:
+pip:<br>
     - (TBA)
