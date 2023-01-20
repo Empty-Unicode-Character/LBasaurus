@@ -1,5 +1,4 @@
-##### Parental Advisory
-#### EXPLICIT CONTENT
+Parental Advisory: **EXPLICIT CONTENT**
 <br>
 
 # LBasaurus
